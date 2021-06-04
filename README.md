@@ -1,6 +1,27 @@
 # Learn React by Building Netflix.
 
+I'm Hiep. I work as a full-time software engineer. Most of my open-source projects are focused on one thing - to help people learn 📚. 
+
+I created a git repository that help you learn react by buiding Netflix. It means that you are learning React.js by building a real-life project. I will explain concepts in detail. This post is the first part in my series and it is suitable for beginners.
+
+> Github link: https://github.com/hieptl/netflix-clone
+>
+> If you feel the repository is useful, please help me share the post and give me a Github's star. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community :heart:.
+>
+> I also created some series that help you improve your practical skills: 
+> 
+> __1. Master Design Patterns by Building Real Projects - Javascript.__
+>
+> https://dev.to/hieptl/series/13039
+>
+> __2. Some Mistakes When Using This Keyword in Javascript and Solutions__
+>
+> https://dev.to/hieptl/some-mistakes-when-using-this-keyword-in-javascript-and-solutions-4j77
+>
+
+
 ## __Preface__
+
 This course will help you to learn React by building Netflix. It means that you are learning by doing a real-life project. You will learn the following React concepts:
 
 - JSX.
