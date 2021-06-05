@@ -14,7 +14,11 @@ I created a git repository that help you learn react by buiding Netflix. It mean
 >
 > https://dev.to/hieptl/series/13039
 >
-> __2. Some Mistakes When Using This Keyword in Javascript and Solutions__
+> __2. Crack the React Interviews By Using Mindmap__
+>
+> https://dev.to/hieptl/series/13102
+>
+> __3. Some Mistakes When Using This Keyword in Javascript and Solutions__
 >
 > https://dev.to/hieptl/some-mistakes-when-using-this-keyword-in-javascript-and-solutions-4j77
 >
