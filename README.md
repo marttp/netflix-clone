@@ -6,9 +6,9 @@
 
 I'm Hiep. I work as a full-time software engineer. Most of my open-source projects are focused on one thing - to help people learn 📚. 
 
-I created a git repository that help you learn react by buiding Netflix. It means that you are learning React.js by building a real-life project :star:. I will explain concepts in detail. This post is the first part in my series and it is suitable for beginners :heart:.
+The repository helps you learn React by buiding Netflix. It means that you are learning React.js by building a real-life project. I will explain concepts in detail. This post is the first part in my series and it is suitable for beginners.
 
-> If you feel the repository is useful, please help me share the post and give me a :star:. It will make me feel motivation to work even harder :heart:. I will try to make many open sources and share to the community :heart:.
+> If you feel the repository is useful, please help me share the post and give me a. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community.
 >
 > I also created some series that help you improve your practical skills: 
 > 
