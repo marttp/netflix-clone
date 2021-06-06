@@ -1,30 +1,40 @@
 # Learn React by Building Netflix.
 
+<img src="./md-images/learning-react-by-building-netflix.png" alt="crack-the-react-interview-by-using-mindmap"/>
+
+> Click :star: if you like the project. Pull Request are highly appreciated :heart:
+
 I'm Hiep. I work as a full-time software engineer. Most of my open-source projects are focused on one thing - to help people learn 📚. 
 
-I created a git repository that help you learn react by buiding Netflix. It means that you are learning React.js by building a real-life project. I will explain concepts in detail. This post is the first part in my series and it is suitable for beginners.
+I created a git repository that help you learn react by buiding Netflix. It means that you are learning React.js by building a real-life project :star:. I will explain concepts in detail. This post is the first part in my series and it is suitable for beginners :heart:.
 
-> Github link: https://github.com/hieptl/netflix-clone
->
-> If you feel the repository is useful, please help me share the post and give me a Github's star. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community :heart:.
+> If you feel the repository is useful, please help me share the post and give me a :star:. It will make me feel motivation to work even harder :heart:. I will try to make many open sources and share to the community :heart:.
 >
 > I also created some series that help you improve your practical skills: 
 > 
 > __1. Master Design Patterns by Building Real Projects - Javascript.__
 >
-> https://dev.to/hieptl/series/13039
+> Github: https://github.com/hieptl/master-javascript-design-patterns-by-building-real-projects 
+>
+> Blog: https://dev.to/hieptl/series/13039
 >
 > __2. Crack the React Interviews By Using Mindmap__
 >
-> https://dev.to/hieptl/series/13102
+> Github: https://github.com/hieptl/react-interview-questions-using-mindmap
+>
+> Blog: https://dev.to/hieptl/series/13102
 >
 > __3. Master React Ref By Building Real Project__
 >
-> https://dev.to/hieptl/series/13114
+> Github: https://github.com/hieptl/master-react-ref-by-building-real-project
+>
+> Blog: https://dev.to/hieptl/series/13114
 >
 > __4. Some Mistakes When Using This Keyword in Javascript and Solutions__
 >
-> https://dev.to/hieptl/some-mistakes-when-using-this-keyword-in-javascript-and-solutions-4j77
+> Github: https://github.com/hieptl/mistakes-when-using-this-keyword-in-javascript
+>
+> BLog: https://dev.to/hieptl/some-mistakes-when-using-this-keyword-in-javascript-and-solutions-4j77
 >
 
 
