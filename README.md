@@ -20,25 +20,6 @@ My post is about __Learn React By Building Netflix__ on Dev.to: https://dev.to/h
 >
 > Blog: https://dev.to/hieptl/series/13039
 >
-> __2. Crack the React Interviews By Using Mindmap__
->
-> Github: https://github.com/hieptl/react-interview-questions-using-mindmap
->
-> Blog: https://dev.to/hieptl/series/13102
->
-> __3. Master React Ref By Building Real Project__
->
-> Github: https://github.com/hieptl/master-react-ref-by-building-real-project
->
-> Blog: https://dev.to/hieptl/series/13114
->
-> __4. Some Mistakes When Using This Keyword in Javascript and Solutions__
->
-> Github: https://github.com/hieptl/mistakes-when-using-this-keyword-in-javascript
->
-> BLog: https://dev.to/hieptl/some-mistakes-when-using-this-keyword-in-javascript-and-solutions-4j77
->
-
 
 ## __Preface__
 
