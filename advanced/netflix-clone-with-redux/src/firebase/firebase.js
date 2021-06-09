@@ -1,3 +1,7 @@
+/**
+ * Github: https://github.com/hieptl/netflix-clone.
+ * Dev.to: https://dev.to/hieptl/learn-react-by-building-netflix-1127
+ */
 // import firebase.
 import firebase from "firebase";
 // initialize firebase app in the application.

@@ -1,6 +1,6 @@
 # Learn React by Building Netflix.
 
-<img src="./md-images/learning-react-by-building-netflix.png" alt="crack-the-react-interview-by-using-mindmap"/>
+<img src="./md-images/learning-react-by-building-netflix.png" alt="learn-react-by-building-netflix"/>
 
 > Click :star: if you like the project. Pull Request are highly appreciated :heart:
 

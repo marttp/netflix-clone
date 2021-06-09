@@ -1,10 +1,14 @@
+/**
+ * Github: https://github.com/hieptl/netflix-clone.
+ * Dev.to: https://dev.to/hieptl/learn-react-by-building-netflix-1127
+ */
 // import custom components.
-import Nav from '../nav/Nav';
-import LoginForm from './LoginForm';
+import Nav from "../nav/Nav";
+import LoginForm from "./LoginForm";
 /**
  * create Login component.
  */
-function Login () {
+function Login() {
   return (
     <div className="main">
       {/* Nav */}
