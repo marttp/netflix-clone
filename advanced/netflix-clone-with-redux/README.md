@@ -2,7 +2,7 @@
 
 <img src="../../md-images/learning-react-by-building-netflix.png" alt="learn-react-by-building-netflix"/>
 
-> Click :star: if you like the project. Pull Request are highly appreciated :heart:
+> Click :star: if you like the project. Pull Requests are highly appreciated :heart:
 
 I'm Hiep. I work as a full-time software engineer. Most of my open-source projects are focused on one thing - to help people learn 📚. 
 
@@ -179,7 +179,7 @@ Figure 1. Redux.
 - It provides a single source of truth.
 - State is read only.
 - Changes are made with pure function.
-- Changes in your application will be more predictable and tracable.
+- Changes in your application will be more predictable and traceable.
 - It is easy to integrate with any view libraries.
 
 <a id="when"></a>
@@ -198,7 +198,7 @@ Figure 1. Redux.
 
 Firstly, we need to understand the flow first. 
 
-- The components will get state from the store. Whenever the state is changes, the components will be re-rendered.
+- The components will get state from the store. Whenever the state is changed, the components will be re-rendered.
 
 - The components will dispatch actions to tell the reducers update the state in the store.
 
@@ -226,7 +226,7 @@ In order to integrate Redux in our Netflix application, please follow the below 
 
 In this course, we will understand Redux by building Loading component for our Netflix application.
 
-First of all, we need to know about why Redux should be applied to show Loading. As mentioned before, Redux helps you deal with shared state management. On the other hand, every pages need show to Loading component when fetch apis from the server. For this reasons, the state of Loading component should be available globally and should be shared between components. That's why we want to use Redux in this case.
+First of all, we need to know about why Redux should be applied to show Loading. As mentioned before, Redux helps you deal with shared state management. On the other hand, every pages need to show Loading component when fetching apis from the server. For this reasons, the state of Loading component should be available globally and should be shared between components. That's why we want to use Redux in this case.
 
 - Step 1: Create __Loading.js__ file in __src/components__ folder to define Loading component.
 
