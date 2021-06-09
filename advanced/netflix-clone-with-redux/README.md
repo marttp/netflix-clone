@@ -14,7 +14,7 @@ I'm Hiep. I work as a full-time software engineer. Most of my open-source projec
 
 The repository helps you learn Redux by buiding Netflix. It means that you are learning Redux by building a real-life project. I will explain concepts in detail. This post is the second part in my series and it is suitable for beginners.
 
-My post is about __Learn Redux By Building Netflix__ on Dev.to: https://dev.to/hieptl/learn-react-by-building-netflix-1127
+My post is about __Learn Redux By Building Netflix__ on Dev.to: https://dev.to/hieptl/learn-redux-by-building-netflix-4dem
 
 > If you feel the repository is useful, please help me share the post and give me a :star:. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community.
 >
