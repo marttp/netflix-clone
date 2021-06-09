@@ -1,6 +1,5 @@
 # Learn Redux by Building Netflix.
 
-<img src="../../md-images/redux.png" alt="learn-react-by-building-netflix"/>
 <img src="../../md-images/learning-react-by-building-netflix.png" alt="learn-react-by-building-netflix"/>
 
 > Click :star: if you like the project. Pull Request are highly appreciated :heart:
