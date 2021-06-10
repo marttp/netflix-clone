@@ -70,6 +70,8 @@ This course will help you to learn Redux-Thunk by building Netflix. It means tha
 | No. | Topics |
 | --- | --------- |
 |1  | [Figure 1: Redux Middleware - Architecture.](#figure1) |
+|2  | [Figure 2: Login Page - Netflix.](#figure2) |
+|3  | [Figure 3: The Final Result.](#figure3) |
 
 
 <a id="how-to-run-the-project"></a>
