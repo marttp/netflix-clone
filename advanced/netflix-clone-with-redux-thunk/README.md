@@ -4,6 +4,12 @@
 
 > Click :star: if you like the project. Pull Requests are highly appreciated :heart:
 
+| No. | Topics |
+| --- | --------- |
+|0  | [Learn React By Building Netflix.](https://github.com/hieptl/netflix-clone) |
+|1  | [Live React and Redux By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-redux) |
+|2  | [Live React and Redux-Thunk By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-redux-thunk) |
+
 I'm Hiep. I work as a full-time software engineer. Most of my open-source projects are focused on one thing - to help people learn 📚. 
 
 > Before moving on with this part, you should follow the first part and the second part in this series:
@@ -24,6 +30,7 @@ The repository helps you learn Redux by buiding Netflix. It means that you are l
 
 My post is about __Learn Redux Thunk By Building Netflix__ on Dev.to: https://dev.to/hieptl/learn-redux-thunk-by-building-netflix-2mm4
 
+
 > If you feel the repository is useful, please help me share the post and give me a :star:. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community.
 >
 > I also created some series that help you improve your practical skills: 
@@ -37,7 +44,7 @@ My post is about __Learn Redux Thunk By Building Netflix__ on Dev.to: https://de
 
 ## __Preface__
 
-This course will help you to learn Redux-Thunk by building Netflix. It means that you are learning by doing a real-life project. You will learn the following Redux-Thunk concepts:
+This course will help you to learn Redux-Thunk by building Netflix. It means that you are learning by doing a real-life project.
 
 ## __Table of Contents__
 | No. | Topics |
