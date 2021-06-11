@@ -29,7 +29,7 @@ I'm Hiep. I work as a full-time software engineer. Most of my open-source projec
 
 The repository helps you learn Redux by buiding Netflix. It means that you are learning Redux by building a real-life project. I will explain concepts in detail. This post is the fourth part in my series and it is suitable for beginners.
 
-My post is about __Learn Redux Saga By Building Netflix__ on Dev.to: 
+My post is about __Learn Redux Saga By Building Netflix__ on Dev.to: https://dev.to/hieptl/learn-react-and-redux-saga-by-building-netflix-28hf
 
 > If you feel the repository is useful, please help me share the post and give me a :star:. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community.
 >
@@ -92,7 +92,9 @@ This course will help you to learn Redux-Saga by building Netflix. It means that
 <a id="live-demo"></a>
 ## __1. Live Demo.__
 
-- https://oxile.csb.app/
+- https://kkiqq.csb.app/login
+- Username: demo@gmail.com
+- Password: 123456
 
 <a id="introduction-about-the-creator"></a>
 ## __2. Introduction about the Creator.__
