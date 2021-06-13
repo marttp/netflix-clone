@@ -11,6 +11,7 @@
 |2  | [Learn React and Redux-Thunk By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-redux-thunk) |
 |3  | [Learn React and Redux-Saga By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-redux-saga) |
 |4  | [Learn React and Higher Order Component By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-higher-order-component) |
+|5  | [Learn React and React Ref By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-react-ref) |
 
 I'm Hiep. I work as a full-time software engineer. Most of my open-source projects are focused on one thing - to help people learn 📚. 
 
@@ -171,13 +172,13 @@ const firstOrderFunc = () => console.log ('Hello, I am a First order function');
 const higherOrder = ReturnFirstOrderFunc => ReturnFirstOrderFunc();
 higherOrder(firstOrderFunc);
 ```
-<a id="what-is-redux-thunk"></a>
+<a id="what"></a>
 ### __5.2. What__
 
 - Higher-order component is a function that take a component as input and return a new component.
 - It is called a pure function because it will not modify or copy any behaviour from its input component.
 
-<a id="the-architecture-of-redux-middleware"></a>
+<a id="why"></a>
 ### __5.3. Why__
 
 There are some advangtages of higher-order components:
