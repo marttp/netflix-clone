@@ -11,7 +11,7 @@
 |2  | [Learn React and Redux-Thunk By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-redux-thunk) |
 |3  | [Learn React and Redux-Saga By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-redux-saga) |
 |4  | [Learn React and Higher Order Component By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-higher-order-component) |
-|5  | [Learn React and React Ref By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-react-ref) |
+|5  | [Learn React and React Ref By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-ref) |
 
 I'm Hiep. I work as a full-time software engineer. Most of my open-source projects are focused on one thing - to help people learn 📚. 
 
@@ -26,7 +26,7 @@ I'm Hiep. I work as a full-time software engineer. Most of my open-source projec
 
 The repository helps you learn React Ref by buiding Netflix. It means that you are learning React Ref by building a real-life project. I will explain concepts in detail. This post is the fifth part in my series and it is suitable for beginners.
 
-My post is about __Learn React and React Ref By Building Netflix__ on Dev.to: 
+My post is about __Learn React and React Ref By Building Netflix__ on Dev.to: https://dev.to/hieptl/learn-react-ref-by-building-netflix-1fb5
 
 > If you feel the repository is useful, please help me share the post and give me a :star:. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community.
 >
@@ -41,7 +41,7 @@ My post is about __Learn React and React Ref By Building Netflix__ on Dev.to:
 
 ## __Preface__
 
-This course will help you to learn higher order componnets by building Netflix. It means that you are learning by doing a real-life project.
+This course will help you to learn React ref by building Netflix. It means that you are learning by doing a real-life project.
 
 ## __Table of Contents__
 | No. | Topics |
