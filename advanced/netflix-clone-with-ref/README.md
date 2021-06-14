@@ -12,6 +12,7 @@
 |3  | [Learn React and Redux-Saga By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-redux-saga) |
 |4  | [Learn React and Higher Order Component By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-higher-order-component) |
 |5  | [Learn React and React Ref By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-ref) |
+|6  | [Learn React and Lifecycle Methods By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-lifecycle-methods) |
 
 I'm Hiep. I work as a full-time software engineer. Most of my open-source projects are focused on one thing - to help people learn 📚. 
 
@@ -24,7 +25,7 @@ I'm Hiep. I work as a full-time software engineer. Most of my open-source projec
 > - Dev.to: https://dev.to/hieptl/learn-react-by-building-netflix-1127
 >
 
-The repository helps you learn React Ref by buiding Netflix. It means that you are learning React Ref by building a real-life project. I will explain concepts in detail. This post is the fifth part in my series and it is suitable for beginners.
+The repository helps you learn React Ref by buiding Netflix. It means that you are learning React Ref by building a real-life project. I will explain concepts in detail. This post is the sixth part in my series and it is suitable for beginners.
 
 My post is about __Learn React and React Ref By Building Netflix__ on Dev.to: https://dev.to/hieptl/learn-react-ref-by-building-netflix-1fb5
 
