@@ -27,7 +27,7 @@ I'm Hiep. I work as a full-time software engineer. Most of my open-source projec
 
 The repository helps you learn lifecycle methods by buiding Netflix. It means that you are learning life cycle methods by building a real-life project. I will explain concepts in detail. This post is the seventh part in my series and it is suitable for beginners.
 
-My post is about __Learn React and Lifecycle Methods By Building Netflix__ on Dev.to: 
+My post is about __Learn React and Lifecycle Methods By Building Netflix__ on Dev.to: https://dev.to/hieptl/learn-react-and-lifecycle-methods-by-building-netflix-4683#react-lifecycle-methods
 
 > If you feel the repository is useful, please help me share the post and give me a :star:. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community.
 >
@@ -42,7 +42,7 @@ My post is about __Learn React and Lifecycle Methods By Building Netflix__ on De
 
 ## __Preface__
 
-This course will help you to learn lifecycle methods by building Netflix. It means that you are learning by doing a real-life project. You will understand about different phases such as mouting, updating and unmouting. 
+This course will help you to learn lifecycle methods by building Netflix. It means that you are learning by doing a real-life project. You will understand about different phases such as mounting, updating and unmounting. 
 
 > If you are using function components, you do not need to care about lifecyle methods. Because from React v16.8, we have supporting from React Hooks. I will have another post to explain about React Hooks by Building Netflix.
 
@@ -306,7 +306,7 @@ export default Detail;
 >
 > - It is time to talk about some new methods in the __Detail__ component.
 >
-> - In fact, we have three phases in the lifecycle: __mouting__, __updating__, __unmouting__.
+> - In fact, we have three phases in the lifecycle: __mounting__, __updating__, __unmounting__.
 >
 
 > __3rd NOTE__:
@@ -342,7 +342,7 @@ export default Detail;
 > componentDidUpdate was called
 > ```
 >
-> - __getDerivedStateFromProps__ and __render__ will take part in both phases (__mounting__ and __unmouting__).
+> - __getDerivedStateFromProps__ and __render__ will take part in both phases (__mounting__ and __unmounting__).
 >
 > - __shouldComponentUpdate__: Determines if the component will be updated or not. By default it returns true. If you are sure that the component doesn't need to render after state or props are updated, you can return false value. It is a great place to improve performance as it allows you to prevent a re-render if component receives new prop.
 > 
@@ -352,7 +352,7 @@ export default Detail;
 
 > __5th NOTE__:
 >
-> - If you destroy the component, we can see the __unmouting__ phase. __componentWillUnmount__ will be executed.
+> - If you destroy the component, we can see the __unmounting__ phase. __componentWillUnmount__ will be executed.
 >
 > - __componentWillUnmount__ It will be used to cancel any outgoing network requests, or remove all event listeners associated with the component. You will see the result:
 >
@@ -370,7 +370,7 @@ export default Detail;
 
 - The __updating__ phase will contain __getDerivedStateFromProps__, __shouldComponentUpdate__, __render__, __getSnapshowBeforeUpdate__, __componentDidUpdate__.
 
-- The __unmouting__ phase will contain __componentWillUnmount__.
+- The __unmounting__ phase will contain __componentWillUnmount__.
 
 Thank you so much for taking the course. I hope that you could understand about React lifecycle methods and you can build many real-life projects by using React (as front-end) and Firebase (as back-end) in order to solve many problems and make our life become better.
 
