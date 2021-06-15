@@ -13,6 +13,7 @@
 |4  | [Learn React and Higher Order Component By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-higher-order-component) |
 |5  | [Learn React and React Ref By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-ref) |
 |6  | [Learn React and Lifecycle Methods By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-lifecycle-methods) |
+|7  | [Learn React and Context API By Building Netflix.](https://github.com/hieptl/netflix-clone/tree/main/advanced/netflix-clone-with-context-api) |
 
 I'm Hiep. I work as a full-time software engineer. Most of my open-source projects are focused on one thing - to help people learn 📚. 
 
@@ -75,7 +76,6 @@ This course will help you to learn lifecycle methods by building Netflix. It mea
 | No. | Topics |
 | --- | --------- |
 |1  | [Figure 1: Detail Page - Netflix.](#figure1) |
-|2  | [Figure 2: The Final Result.](#figure2) |
 
 
 <a id="how-to-run-the-project"></a>
