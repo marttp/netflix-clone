@@ -12,14 +12,6 @@ My post is about __Learn React By Building Netflix__ on Dev.to: https://dev.to/h
 
 > If you feel the repository is useful, please help me share the post and give me a. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community.
 >
-> I also created some series that help you improve your practical skills: 
-> 
-> __1. Master Design Patterns by Building Real Projects - Javascript.__
->
-> Github: https://github.com/hieptl/master-javascript-design-patterns-by-building-real-projects 
->
-> Blog: https://dev.to/hieptl/series/13039
->
 
 ## __Preface__
 
