@@ -1,5 +1,6 @@
-import firebase from 'firebase';
-
+// import firebase.
+import firebase from "firebase";
+// initialize firebase app in the application.
 const app = firebase.initializeApp({
   apiKey: `${process.env.REACT_APP_FIREBASE_API_KEY}`,
   authDomain: `${process.env.REACT_APP_FIREBASE_AUTH_DOMAIN}`,
@@ -9,12 +10,9 @@ const app = firebase.initializeApp({
   databaseURL: `${process.env.REACT_APP_FIREBASE_DATABASE_UTL}`,
   storageBucket: `${process.env.REACT_APP_FIREBASE_STORAGE_BUCKET}`
 });
-
+// create firebase database.
 const firebaseDatabase = app.database();
+// create firebase auth.
 const firebaseAuth = app.auth();
-
-export {
-  firebaseDatabase,
-  firebaseAuth
-};
-
+// export firebase database and firebase auth for later use.
+export { firebaseDatabase, firebaseAuth };

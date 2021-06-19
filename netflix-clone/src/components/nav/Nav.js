@@ -1,3 +1,6 @@
+/**
+ * create Nav component.
+ */
 function Nav() {
   return (  
     <div className="nav false">
@@ -14,5 +17,5 @@ function Nav() {
     </div>
   );
 }
-
+// export Nav component.
 export default Nav;

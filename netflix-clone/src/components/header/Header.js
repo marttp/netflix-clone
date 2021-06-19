@@ -1,6 +1,10 @@
+/**
+ * create Header component.
+ */
 function Header() {
   return (
     <header className="banner">
+      {/* Banner Content */}
       <div className="banner__contents">
         <h1 className="banner__title">Ginny &amp; Georgia</h1>
         <div className="banner__buttons">
@@ -13,9 +17,12 @@ function Header() {
           Georgia Miller...
         </h1>
       </div>
+      {/* End Banner Content */}
+      {/* Banner Fade Bottom Animation */}
       <div className="banner--fadeBottom"></div>
+      {/* End Banner Fade Bottom Animation */}
     </header>
   );
 }
-
+// export Header component.
 export default Header;

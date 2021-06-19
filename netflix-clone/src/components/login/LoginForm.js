@@ -1,12 +1,20 @@
+// import react.
 import { useState } from 'react';
+// import firebase authentication.
 import { firebaseAuth } from '../../firebase/firebase';
-
+/**
+ * create LoginForm component.
+ */
 function LoginForm() {
-
+  // create email and password state to store user's credentials.
   const [email, setEmail] = useState();
   const [password, setPassword] = useState();
 
+  /**
+   * handle event when the user clicks on "Login" button.
+   */
   const login = () => {
+    // call firebase authentication service.
     firebaseAuth.signInWithEmailAndPassword(email, password)
     .then((userCredential) => {
       // Signed in
@@ -20,13 +28,25 @@ function LoginForm() {
     });
   }
 
+  /**
+   * update email state when the user inputs the email field.
+   * @param {*} e - synthetic event to get the latest email's value.
+   */
   const onEmailChanged = (e) => {
+    // get email value.
     const updatedEmail = e.target.value;
+    // update email state.
     setEmail(() => updatedEmail);
   };
 
+  /**
+   * update password state when the user input the password field.
+   * @param {*} e - synthetic event to get the latest password's value.
+   */
   const onPasswordChanged = (e) => {
+    // get password value.
     const updatedPassword = e.target.value;
+    // update password state.
     setPassword(() => updatedPassword);
   };
 
@@ -63,5 +83,5 @@ function LoginForm() {
     </div>
   );
 }
-
+// export LoginForm component.
 export default LoginForm;
